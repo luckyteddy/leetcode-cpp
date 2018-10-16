@@ -1,5 +1,5 @@
-#include <iostream>
 #include <vector>
+#include <iostream>
 #include <unordered_map>
 #include <string>
 #include <set>
@@ -705,8 +705,8 @@ int main() {
 	printVector(vi);
 
 	//29. Divide Two Integers
-	//int ans = Sol.divide(-15, 3);
-	//cout << ans;
+	int ans = Sol.divide(-15, 3);
+	cout << ans;
 
 	//28 Implement strStr()
 	//int ans = Sol.strStr("abb", "abaaa");
